@@ -3,8 +3,22 @@ kind: Component
 metadata:
   name: playback-sdk
   description: Audio and video playback SDK
+  namespace: UAT
 spec:
   type: library
   lifecycle: experimental
   owner: team-c
   system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk
+  description: Audio and video playback SDK
+  namespace: SIT
+spec:
+  type: library
+  lifecycle: experimental
+  owner: team-c
+  system: audio-playback
+
