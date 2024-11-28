@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog-backend
 
+## 1.28.1-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-plugin-api@1.0.3-next.1
+  - @backstage/plugin-permission-node@0.8.6-next.1
+  - @backstage/plugin-search-backend-module-catalog@0.2.6-next.1
+  - @backstage/backend-openapi-utils@0.3.1-next.1
+  - @backstage/plugin-catalog-node@1.14.1-next.1
+  - @backstage/plugin-events-node@0.4.6-next.1
+
 ## 1.28.1-next.0
 
 ### Patch Changes

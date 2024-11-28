@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-backend-module-incremental-ingestion
 
+## 0.6.1-next.1
+
+### Patch Changes
+
+- fe87fbf: Add task metrics as two gauges that track the last start and end timestamps as epoch seconds.
+- Updated dependencies
+  - @backstage/backend-plugin-api@1.0.3-next.1
+  - @backstage/plugin-catalog-backend@1.28.1-next.1
+  - @backstage/plugin-catalog-node@1.14.1-next.1
+  - @backstage/plugin-events-node@0.4.6-next.1
+
 ## 0.6.1-next.0
 
 ### Patch Changes

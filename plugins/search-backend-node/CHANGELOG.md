@@ -1,5 +1,13 @@
 # @backstage/plugin-search-backend-node
 
+## 1.3.6-next.1
+
+### Patch Changes
+
+- 5ae8a2c: Removed unnecessary dependency on `@backstage/backend-defaults`.
+- Updated dependencies
+  - @backstage/backend-plugin-api@1.0.3-next.1
+
 ## 1.3.6-next.0
 
 ### Patch Changes

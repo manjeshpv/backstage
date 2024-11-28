@@ -1,5 +1,12 @@
 # @backstage/frontend-plugin-api
 
+## 0.9.3-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.16.2-next.1
+
 ## 0.9.3-next.0
 
 ### Patch Changes

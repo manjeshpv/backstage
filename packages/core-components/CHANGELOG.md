@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.16.2-next.1
+
+### Patch Changes
+
+- e47be38: Added data-testid to placeholder rendered by Progress component to simplify assertions in tests
+
 ## 0.16.2-next.0
 
 ### Patch Changes

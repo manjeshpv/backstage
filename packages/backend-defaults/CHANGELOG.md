@@ -1,5 +1,19 @@
 # @backstage/backend-defaults
 
+## 0.6.0-next.1
+
+### Patch Changes
+
+- fe87fbf: Add task metrics as two gauges that track the last start and end timestamps as epoch seconds.
+- Updated dependencies
+  - @backstage/plugin-auth-node@0.5.5-next.1
+  - @backstage/backend-app-api@1.0.3-next.1
+  - @backstage/backend-plugin-api@1.0.3-next.1
+  - @backstage/plugin-permission-node@0.8.6-next.1
+  - @backstage/plugin-events-node@0.4.6-next.1
+  - @backstage/cli-node@0.2.11-next.0
+  - @backstage/config-loader@1.9.2
+
 ## 0.6.0-next.0
 
 ### Minor Changes

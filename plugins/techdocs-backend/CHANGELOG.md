@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs-backend
 
+## 1.11.4-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-plugin-api@1.0.3-next.1
+  - @backstage/plugin-search-backend-module-techdocs@0.3.4-next.1
+  - @backstage/plugin-catalog-node@1.14.1-next.1
+  - @backstage/plugin-techdocs-node@1.12.15-next.1
+
 ## 1.11.4-next.0
 
 ### Patch Changes
